@@ -1,0 +1,1097 @@
+0j
+------ Start GLOBAL rotations to different measurement configurations.------
+Measure in Z basis.
+Start measurement of initialize(100 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/withRotation/1samples/100samples
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/tmp
+tensor([[0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.],
+        [1., 1., 1., 1., 1.]], dtype=torch.float64)
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.582117	KL = 1.123668
+Epoch: 200	rescaled_fidelity = 0.641028	KL = 0.656114
+Total time elapsed during training:  2.145 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.730167	KL = 1.317152
+Epoch: 200	rescaled_fidelity = 0.812517	KL = 0.782855
+Total time elapsed during training:  1.748 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.675574	KL = 1.483162
+Epoch: 200	rescaled_fidelity = 0.775259	KL = 0.789793
+Total time elapsed during training:  1.747 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.633331	KL = 1.183115
+Epoch: 200	rescaled_fidelity = 0.698438	KL = 0.695479
+Total time elapsed during training:  1.741 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.583962	KL = 1.379463
+Epoch: 200	rescaled_fidelity = 0.662786	KL = 0.753936
+Total time elapsed during training:  1.752 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.678836	KL = 1.380755
+Epoch: 200	rescaled_fidelity = 0.756897	KL = 0.823205
+Total time elapsed during training:  1.749 s
+Measure in X basis.
+Start measurement of initialize(100 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/withRotation/1samples/100samples
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/tmp
+tensor([[1., 1., 1., 1., 1.],
+        [1., 1., 0., 0., 0.],
+        [1., 1., 0., 0., 0.],
+        [0., 0., 1., 1., 0.],
+        [0., 0., 1., 1., 0.],
+        [0., 0., 1., 1., 0.],
+        [0., 0., 1., 1., 0.],
+        [1., 0., 1., 1., 0.],
+        [1., 0., 1., 1., 0.],
+        [0., 0., 0., 0., 1.],
+        [0., 0., 0., 0., 1.],
+        [0., 0., 0., 0., 1.],
+        [0., 0., 0., 0., 1.],
+        [0., 0., 0., 0., 1.],
+        [1., 0., 0., 0., 1.],
+        [1., 0., 0., 0., 1.],
+        [1., 0., 0., 0., 1.],
+        [1., 0., 0., 0., 1.],
+        [1., 0., 0., 0., 1.],
+        [0., 0., 1., 0., 0.],
+        [0., 1., 1., 0., 1.],
+        [0., 1., 1., 0., 1.],
+        [0., 1., 1., 0., 1.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 1., 0., 1.],
+        [1., 0., 1., 0., 1.],
+        [0., 1., 0., 1., 1.],
+        [0., 1., 0., 1., 1.],
+        [0., 1., 0., 1., 1.],
+        [0., 1., 1., 1., 0.],
+        [0., 1., 1., 1., 0.],
+        [0., 1., 1., 1., 0.],
+        [1., 0., 0., 1., 1.],
+        [1., 0., 0., 1., 1.],
+        [1., 0., 0., 1., 1.],
+        [0., 1., 0., 0., 0.],
+        [1., 0., 0., 0., 0.],
+        [1., 0., 0., 0., 0.],
+        [1., 0., 0., 0., 0.],
+        [1., 0., 0., 0., 0.],
+        [1., 1., 0., 1., 1.],
+        [1., 1., 0., 1., 1.],
+        [1., 1., 0., 1., 1.],
+        [0., 0., 0., 1., 1.],
+        [0., 0., 0., 1., 1.],
+        [0., 1., 1., 1., 1.],
+        [0., 1., 1., 1., 1.],
+        [1., 1., 1., 0., 0.],
+        [1., 1., 1., 0., 0.],
+        [1., 1., 1., 0., 0.],
+        [1., 0., 1., 1., 1.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 1., 1., 0.],
+        [0., 0., 0., 1., 0.],
+        [0., 0., 0., 1., 0.],
+        [0., 0., 0., 1., 0.],
+        [0., 0., 0., 1., 0.],
+        [0., 0., 1., 1., 1.],
+        [0., 0., 1., 1., 1.],
+        [0., 0., 1., 1., 1.],
+        [0., 0., 1., 1., 1.],
+        [0., 0., 1., 1., 1.],
+        [0., 0., 1., 1., 1.],
+        [0., 0., 1., 1., 1.],
+        [0., 1., 0., 1., 0.],
+        [0., 1., 0., 1., 0.],
+        [0., 1., 0., 1., 0.],
+        [0., 1., 0., 1., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [1., 1., 0., 0., 1.],
+        [1., 1., 0., 0., 1.],
+        [1., 1., 0., 0., 1.],
+        [1., 1., 0., 1., 0.],
+        [1., 1., 0., 1., 0.],
+        [1., 1., 0., 1., 0.],
+        [1., 1., 0., 1., 0.],
+        [1., 1., 0., 1., 0.],
+        [0., 0., 1., 0., 1.]], dtype=torch.float64)
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.414803	KL = 2.831949
+Epoch: 200	rescaled_fidelity = 0.414706	KL = 2.811273
+Total time elapsed during training:  1.765 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.544060	KL = 2.798432
+Epoch: 200	rescaled_fidelity = 0.544733	KL = 2.783213
+Total time elapsed during training:  1.764 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.525940	KL = 2.745631
+Epoch: 200	rescaled_fidelity = 0.526138	KL = 2.739248
+Total time elapsed during training:  1.762 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.457323	KL = 2.825105
+Epoch: 200	rescaled_fidelity = 0.456812	KL = 2.830974
+Total time elapsed during training:  1.767 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.435853	KL = 2.844017
+Epoch: 200	rescaled_fidelity = 0.435189	KL = 2.855341
+Total time elapsed during training:  1.766 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.515923	KL = 2.742274
+Epoch: 200	rescaled_fidelity = 0.517587	KL = 2.723295
+Total time elapsed during training:  1.763 s
+Measure in Y basis.
+Start measurement of initialize(100 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/withRotation/1samples/100samples
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/tmp
+tensor([[1., 0., 1., 1., 1.],
+        [1., 0., 1., 1., 1.],
+        [1., 0., 1., 1., 1.],
+        [1., 0., 1., 1., 1.],
+        [1., 0., 1., 1., 1.],
+        [1., 0., 1., 1., 1.],
+        [1., 0., 1., 1., 1.],
+        [0., 0., 1., 0., 1.],
+        [0., 0., 1., 0., 1.],
+        [0., 0., 1., 0., 1.],
+        [0., 0., 1., 0., 1.],
+        [0., 0., 1., 0., 1.],
+        [0., 0., 1., 0., 1.],
+        [0., 0., 1., 0., 1.],
+        [0., 0., 1., 1., 0.],
+        [0., 0., 1., 1., 0.],
+        [0., 0., 1., 1., 0.],
+        [0., 1., 1., 1., 1.],
+        [0., 1., 1., 1., 1.],
+        [0., 1., 1., 1., 1.],
+        [0., 1., 1., 1., 1.],
+        [0., 1., 1., 1., 1.],
+        [0., 1., 1., 1., 1.],
+        [0., 1., 1., 1., 1.],
+        [0., 1., 1., 1., 1.],
+        [0., 1., 1., 1., 1.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 0., 1., 0.],
+        [1., 0., 1., 0., 0.],
+        [1., 0., 1., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [0., 1., 1., 0., 0.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 1., 1., 0.],
+        [1., 1., 0., 1., 1.],
+        [1., 1., 0., 1., 1.],
+        [1., 1., 0., 1., 1.],
+        [1., 1., 0., 1., 1.],
+        [1., 1., 0., 1., 1.],
+        [1., 1., 0., 1., 1.],
+        [1., 1., 0., 1., 1.],
+        [1., 1., 0., 1., 1.],
+        [0., 0., 0., 1., 1.],
+        [0., 0., 0., 1., 1.],
+        [0., 0., 0., 1., 1.],
+        [0., 0., 0., 1., 1.],
+        [0., 0., 0., 1., 1.],
+        [0., 0., 0., 1., 1.],
+        [0., 0., 0., 1., 1.],
+        [0., 1., 0., 0., 1.],
+        [0., 1., 0., 0., 1.],
+        [0., 1., 0., 0., 1.],
+        [0., 1., 0., 0., 1.],
+        [0., 1., 0., 0., 1.],
+        [0., 1., 0., 0., 1.],
+        [0., 1., 0., 0., 1.],
+        [0., 1., 0., 0., 1.],
+        [1., 1., 0., 0., 0.],
+        [1., 1., 0., 0., 0.],
+        [1., 1., 0., 0., 0.],
+        [1., 1., 0., 0., 0.],
+        [1., 1., 0., 0., 0.],
+        [1., 1., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [0., 0., 0., 0., 0.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 0., 1.],
+        [1., 1., 1., 0., 1.],
+        [0., 1., 0., 1., 0.],
+        [0., 1., 0., 1., 0.],
+        [0., 1., 0., 1., 0.],
+        [0., 1., 0., 1., 0.],
+        [1., 0., 0., 0., 1.],
+        [1., 0., 0., 0., 1.],
+        [1., 0., 0., 0., 1.],
+        [1., 0., 0., 0., 1.],
+        [1., 0., 0., 0., 1.],
+        [1., 0., 0., 0., 1.]], dtype=torch.float64)
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.431098	KL = 2.862233
+Epoch: 200	rescaled_fidelity = 0.435514	KL = 2.896179
+Total time elapsed during training:  1.773 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.544403	KL = 2.843612
+Epoch: 200	rescaled_fidelity = 0.545282	KL = 2.864994
+Total time elapsed during training:  1.768 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.522157	KL = 2.815364
+Epoch: 200	rescaled_fidelity = 0.522472	KL = 2.860471
+Total time elapsed during training:  1.766 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.463057	KL = 2.876552
+Epoch: 200	rescaled_fidelity = 0.461661	KL = 2.900249
+Total time elapsed during training:  1.771 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.453171	KL = 2.872053
+Epoch: 200	rescaled_fidelity = 0.444472	KL = 2.909069
+Total time elapsed during training:  1.765 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.516051	KL = 2.807730
+Epoch: 200	rescaled_fidelity = 0.516990	KL = 2.818485
+Total time elapsed during training:  1.767 s
+[0.4662684503692025, 0.5062044439380605, 0.511466688305132]
+Using the Z basis for the amplitude measurements.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/tmp
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/../
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/withRotation/1samples/100samples
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.582117	KL = 1.123668
+Epoch: 200	rescaled_fidelity = 0.641028	KL = 0.656114
+Epoch: 300	rescaled_fidelity = 0.663051	KL = 0.477221
+Epoch: 400	rescaled_fidelity = 0.675867	KL = 0.379708
+Epoch: 500	rescaled_fidelity = 0.685325	KL = 0.319129
+Epoch: 600	rescaled_fidelity = 0.688965	KL = 0.278891
+Epoch: 700	rescaled_fidelity = 0.694083	KL = 0.248521
+Epoch: 800	rescaled_fidelity = 0.694936	KL = 0.228918
+Epoch: 900	rescaled_fidelity = 0.696669	KL = 0.214721
+Epoch: 1000	rescaled_fidelity = 0.699120	KL = 0.196794
+Total time elapsed during training:  8.511 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.730167	KL = 1.317152
+Epoch: 200	rescaled_fidelity = 0.812517	KL = 0.782855
+Epoch: 300	rescaled_fidelity = 0.851088	KL = 0.553167
+Epoch: 400	rescaled_fidelity = 0.871767	KL = 0.431660
+Epoch: 500	rescaled_fidelity = 0.883508	KL = 0.364027
+Epoch: 600	rescaled_fidelity = 0.894216	KL = 0.307143
+Epoch: 700	rescaled_fidelity = 0.899157	KL = 0.276229
+Epoch: 800	rescaled_fidelity = 0.905505	KL = 0.243255
+Epoch: 900	rescaled_fidelity = 0.908593	KL = 0.224006
+Epoch: 1000	rescaled_fidelity = 0.912712	KL = 0.203766
+Total time elapsed during training:  8.548 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.675574	KL = 1.483162
+Epoch: 200	rescaled_fidelity = 0.775259	KL = 0.789793
+Epoch: 300	rescaled_fidelity = 0.815215	KL = 0.538559
+Epoch: 400	rescaled_fidelity = 0.836925	KL = 0.410475
+Epoch: 500	rescaled_fidelity = 0.848156	KL = 0.340643
+Epoch: 600	rescaled_fidelity = 0.857370	KL = 0.289707
+Epoch: 700	rescaled_fidelity = 0.861887	KL = 0.260165
+Epoch: 800	rescaled_fidelity = 0.867191	KL = 0.230512
+Epoch: 900	rescaled_fidelity = 0.869821	KL = 0.214412
+Epoch: 1000	rescaled_fidelity = 0.872342	KL = 0.200312
+Total time elapsed during training:  8.524 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.633331	KL = 1.183115
+Epoch: 200	rescaled_fidelity = 0.698438	KL = 0.695479
+Epoch: 300	rescaled_fidelity = 0.726352	KL = 0.494936
+Epoch: 400	rescaled_fidelity = 0.741547	KL = 0.392510
+Epoch: 500	rescaled_fidelity = 0.751523	KL = 0.325722
+Epoch: 600	rescaled_fidelity = 0.757097	KL = 0.287358
+Epoch: 700	rescaled_fidelity = 0.763602	KL = 0.249406
+Epoch: 800	rescaled_fidelity = 0.765751	KL = 0.230132
+Epoch: 900	rescaled_fidelity = 0.768736	KL = 0.210630
+Epoch: 1000	rescaled_fidelity = 0.770799	KL = 0.198836
+Total time elapsed during training:  8.526 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.583962	KL = 1.379463
+Epoch: 200	rescaled_fidelity = 0.662786	KL = 0.753936
+Epoch: 300	rescaled_fidelity = 0.694245	KL = 0.520573
+Epoch: 400	rescaled_fidelity = 0.709387	KL = 0.405547
+Epoch: 500	rescaled_fidelity = 0.716423	KL = 0.341317
+Epoch: 600	rescaled_fidelity = 0.722365	KL = 0.298333
+Epoch: 700	rescaled_fidelity = 0.728844	KL = 0.259134
+Epoch: 800	rescaled_fidelity = 0.732308	KL = 0.234530
+Epoch: 900	rescaled_fidelity = 0.733434	KL = 0.224578
+Epoch: 1000	rescaled_fidelity = 0.735888	KL = 0.211388
+Total time elapsed during training:  8.530 s
+Learn Training_data (withRotation): 100 samples.
+Epoch: 100	rescaled_fidelity = 0.678836	KL = 1.380755
+Epoch: 200	rescaled_fidelity = 0.756897	KL = 0.823205
+Epoch: 300	rescaled_fidelity = 0.795258	KL = 0.573962
+Epoch: 400	rescaled_fidelity = 0.816778	KL = 0.438503
+Epoch: 500	rescaled_fidelity = 0.829649	KL = 0.360178
+Epoch: 600	rescaled_fidelity = 0.838426	KL = 0.308119
+Epoch: 700	rescaled_fidelity = 0.845215	KL = 0.269081
+Epoch: 800	rescaled_fidelity = 0.849195	KL = 0.245332
+Epoch: 900	rescaled_fidelity = 0.853405	KL = 0.218965
+Epoch: 1000	rescaled_fidelity = 0.856596	KL = 0.200690
+Total time elapsed during training:  8.542 s
+------------------- query: XZZXX-------------------
+Start measurement of initialize(1 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/1samples/query_by_amplitude_and_phase/query1
+['ZZZZZ' 'XZZXX']
+Learn Training_data (1samples): 101 samples.
+Epoch: 100	rescaled_fidelity = 0.789833	KL = 1.416108
+Epoch: 200	rescaled_fidelity = 0.854901	KL = 0.771249
+Epoch: 300	rescaled_fidelity = 0.852961	KL = 0.537850
+Epoch: 400	rescaled_fidelity = 0.822643	KL = 0.429833
+Epoch: 500	rescaled_fidelity = 0.781773	KL = 0.369472
+Epoch: 600	rescaled_fidelity = 0.737528	KL = 0.329922
+Epoch: 700	rescaled_fidelity = 0.690848	KL = 0.301729
+Epoch: 800	rescaled_fidelity = 0.643852	KL = 0.278072
+Epoch: 900	rescaled_fidelity = 0.593047	KL = 0.262798
+Epoch: 1000	rescaled_fidelity = 0.541596	KL = 0.247517
+Total time elapsed during training: 10.507 s
+Learn Training_data (1samples): 101 samples.
+Epoch: 100	rescaled_fidelity = 0.393076	KL = 1.700708
+Epoch: 200	rescaled_fidelity = 0.636028	KL = 1.019442
+Epoch: 300	rescaled_fidelity = 0.710000	KL = 0.722107
+Epoch: 400	rescaled_fidelity = 0.741287	KL = 0.565921
+Epoch: 500	rescaled_fidelity = 0.758299	KL = 0.466497
+Epoch: 600	rescaled_fidelity = 0.766602	KL = 0.408450
+Epoch: 700	rescaled_fidelity = 0.773672	KL = 0.357419
+Epoch: 800	rescaled_fidelity = 0.777919	KL = 0.322527
+Epoch: 900	rescaled_fidelity = 0.781228	KL = 0.296525
+Epoch: 1000	rescaled_fidelity = 0.784310	KL = 0.271200
+Total time elapsed during training: 10.449 s
+Learn Training_data (1samples): 101 samples.
+Epoch: 100	rescaled_fidelity = 0.397732	KL = 1.708613
+Epoch: 200	rescaled_fidelity = 0.418924	KL = 0.973153
+Epoch: 300	rescaled_fidelity = 0.543466	KL = 0.682549
+Epoch: 400	rescaled_fidelity = 0.578022	KL = 0.533998
+Epoch: 500	rescaled_fidelity = 0.595069	KL = 0.446406
+Epoch: 600	rescaled_fidelity = 0.603806	KL = 0.383947
+Epoch: 700	rescaled_fidelity = 0.609633	KL = 0.339900
+Epoch: 800	rescaled_fidelity = 0.613259	KL = 0.305235
+Epoch: 900	rescaled_fidelity = 0.615191	KL = 0.279405
+Epoch: 1000	rescaled_fidelity = 0.617433	KL = 0.264779
+Total time elapsed during training: 10.433 s
+Learn Training_data (1samples): 101 samples.
+Epoch: 100	rescaled_fidelity = 0.527355	KL = 1.373287
+Epoch: 200	rescaled_fidelity = 0.369495	KL = 0.854428
+Epoch: 300	rescaled_fidelity = 0.576015	KL = 0.634895
+Epoch: 400	rescaled_fidelity = 0.647394	KL = 0.506555
+Epoch: 500	rescaled_fidelity = 0.679907	KL = 0.422900
+Epoch: 600	rescaled_fidelity = 0.697247	KL = 0.366951
+Epoch: 700	rescaled_fidelity = 0.706652	KL = 0.327214
+Epoch: 800	rescaled_fidelity = 0.712268	KL = 0.305637
+Epoch: 900	rescaled_fidelity = 0.716495	KL = 0.272606
+Epoch: 1000	rescaled_fidelity = 0.719750	KL = 0.250700
+Total time elapsed during training: 10.417 s
+Learn Training_data (1samples): 101 samples.
+Epoch: 100	rescaled_fidelity = 0.665419	KL = 1.930840
+Epoch: 200	rescaled_fidelity = 0.762528	KL = 1.114475
+Epoch: 300	rescaled_fidelity = 0.809854	KL = 0.756596
+Epoch: 400	rescaled_fidelity = 0.836608	KL = 0.571082
+Epoch: 500	rescaled_fidelity = 0.850750	KL = 0.468885
+Epoch: 600	rescaled_fidelity = 0.862667	KL = 0.396763
+Epoch: 700	rescaled_fidelity = 0.870043	KL = 0.351303
+Epoch: 800	rescaled_fidelity = 0.875229	KL = 0.318149
+Epoch: 900	rescaled_fidelity = 0.880011	KL = 0.291401
+Epoch: 1000	rescaled_fidelity = 0.884644	KL = 0.265555
+Total time elapsed during training: 10.451 s
+Learn Training_data (1samples): 101 samples.
+Epoch: 100	rescaled_fidelity = 0.462324	KL = 1.675707
+Epoch: 200	rescaled_fidelity = 0.410306	KL = 1.042328
+Epoch: 300	rescaled_fidelity = 0.550311	KL = 0.739554
+Epoch: 400	rescaled_fidelity = 0.607734	KL = 0.568607
+Epoch: 500	rescaled_fidelity = 0.635961	KL = 0.465683
+Epoch: 600	rescaled_fidelity = 0.651327	KL = 0.397858
+Epoch: 700	rescaled_fidelity = 0.660137	KL = 0.354340
+Epoch: 800	rescaled_fidelity = 0.665765	KL = 0.316975
+Epoch: 900	rescaled_fidelity = 0.669715	KL = 0.286917
+Epoch: 1000	rescaled_fidelity = 0.672791	KL = 0.267492
+Total time elapsed during training: 10.445 s
+------------------- query: XZZXX-------------------
+Start measurement of initialize(1 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/1samples/query_by_amplitude_and_phase/query2
+['ZZZZZ' 'XZZXX' 'XZZXX']
+Learn Training_data (1samples): 102 samples.
+Epoch: 100	rescaled_fidelity = 0.791528	KL = 1.465801
+Epoch: 200	rescaled_fidelity = 0.874414	KL = 0.784601
+Epoch: 300	rescaled_fidelity = 0.893259	KL = 0.555315
+Epoch: 400	rescaled_fidelity = 0.890528	KL = 0.439749
+Epoch: 500	rescaled_fidelity = 0.876751	KL = 0.370529
+Epoch: 600	rescaled_fidelity = 0.858909	KL = 0.322193
+Epoch: 700	rescaled_fidelity = 0.838723	KL = 0.287771
+Epoch: 800	rescaled_fidelity = 0.818766	KL = 0.263215
+Epoch: 900	rescaled_fidelity = 0.797118	KL = 0.258329
+Epoch: 1000	rescaled_fidelity = 0.774102	KL = 0.226870
+Total time elapsed during training: 10.590 s
+Learn Training_data (1samples): 102 samples.
+Epoch: 100	rescaled_fidelity = 0.405087	KL = 1.703842
+Epoch: 200	rescaled_fidelity = 0.474912	KL = 0.984887
+Epoch: 300	rescaled_fidelity = 0.657932	KL = 0.704540
+Epoch: 400	rescaled_fidelity = 0.747784	KL = 0.560035
+Epoch: 500	rescaled_fidelity = 0.801227	KL = 0.475934
+Epoch: 600	rescaled_fidelity = 0.833304	KL = 0.417122
+Epoch: 700	rescaled_fidelity = 0.856166	KL = 0.373063
+Epoch: 800	rescaled_fidelity = 0.873604	KL = 0.335074
+Epoch: 900	rescaled_fidelity = 0.885716	KL = 0.308311
+Epoch: 1000	rescaled_fidelity = 0.895060	KL = 0.285573
+Total time elapsed during training: 10.640 s
+Learn Training_data (1samples): 102 samples.
+Epoch: 100	rescaled_fidelity = 0.662867	KL = 1.733523
+Epoch: 200	rescaled_fidelity = 0.676421	KL = 0.925620
+Epoch: 300	rescaled_fidelity = 0.649782	KL = 0.665089
+Epoch: 400	rescaled_fidelity = 0.622033	KL = 0.540087
+Epoch: 500	rescaled_fidelity = 0.591637	KL = 0.466065
+Epoch: 600	rescaled_fidelity = 0.569715	KL = 0.410258
+Epoch: 700	rescaled_fidelity = 0.554118	KL = 0.368066
+Epoch: 800	rescaled_fidelity = 0.539452	KL = 0.336903
+Epoch: 900	rescaled_fidelity = 0.530852	KL = 0.311559
+Epoch: 1000	rescaled_fidelity = 0.525942	KL = 0.290515
+Total time elapsed during training: 10.653 s
+Learn Training_data (1samples): 102 samples.
+Epoch: 100	rescaled_fidelity = 0.682836	KL = 1.384382
+Epoch: 200	rescaled_fidelity = 0.635201	KL = 0.812076
+Epoch: 300	rescaled_fidelity = 0.544737	KL = 0.590566
+Epoch: 400	rescaled_fidelity = 0.436174	KL = 0.478083
+Epoch: 500	rescaled_fidelity = 0.281597	KL = 0.413587
+Epoch: 600	rescaled_fidelity = 0.283563	KL = 0.368046
+Epoch: 700	rescaled_fidelity = 0.348174	KL = 0.334356
+Epoch: 800	rescaled_fidelity = 0.403312	KL = 0.305797
+Epoch: 900	rescaled_fidelity = 0.440813	KL = 0.282918
+Epoch: 1000	rescaled_fidelity = 0.458582	KL = 0.267056
+Total time elapsed during training: 10.619 s
+Learn Training_data (1samples): 102 samples.
+Epoch: 100	rescaled_fidelity = 0.766991	KL = 1.503979
+Epoch: 200	rescaled_fidelity = 0.869681	KL = 0.873947
+Epoch: 300	rescaled_fidelity = 0.906795	KL = 0.647814
+Epoch: 400	rescaled_fidelity = 0.923371	KL = 0.523193
+Epoch: 500	rescaled_fidelity = 0.932187	KL = 0.446424
+Epoch: 600	rescaled_fidelity = 0.937546	KL = 0.391861
+Epoch: 700	rescaled_fidelity = 0.942509	KL = 0.347662
+Epoch: 800	rescaled_fidelity = 0.944254	KL = 0.319454
+Epoch: 900	rescaled_fidelity = 0.947026	KL = 0.291454
+Epoch: 1000	rescaled_fidelity = 0.948060	KL = 0.273728
+Total time elapsed during training: 10.631 s
+Learn Training_data (1samples): 102 samples.
+Epoch: 100	rescaled_fidelity = 0.624922	KL = 1.865274
+Epoch: 200	rescaled_fidelity = 0.434529	KL = 1.069161
+Epoch: 300	rescaled_fidelity = 0.389535	KL = 0.748093
+Epoch: 400	rescaled_fidelity = 0.582216	KL = 0.583610
+Epoch: 500	rescaled_fidelity = 0.679775	KL = 0.485133
+Epoch: 600	rescaled_fidelity = 0.736570	KL = 0.419705
+Epoch: 700	rescaled_fidelity = 0.776978	KL = 0.372476
+Epoch: 800	rescaled_fidelity = 0.803206	KL = 0.336062
+Epoch: 900	rescaled_fidelity = 0.821902	KL = 0.308936
+Epoch: 1000	rescaled_fidelity = 0.836543	KL = 0.284784
+Total time elapsed during training: 10.655 s
+------------------- query: XZZXX-------------------
+Start measurement of initialize(1 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/1samples/query_by_amplitude_and_phase/query3
+['ZZZZZ' 'XZZXX' 'XZZXX' 'XZZXX']
+Learn Training_data (1samples): 103 samples.
+Epoch: 100	rescaled_fidelity = 0.750702	KL = 1.056772
+Epoch: 200	rescaled_fidelity = 0.770508	KL = 0.602602
+Epoch: 300	rescaled_fidelity = 0.783911	KL = 0.473673
+Epoch: 400	rescaled_fidelity = 0.809736	KL = 0.418249
+Epoch: 500	rescaled_fidelity = 0.846649	KL = 0.369661
+Epoch: 600	rescaled_fidelity = 0.858390	KL = 0.320207
+Epoch: 700	rescaled_fidelity = 0.854058	KL = 0.278553
+Epoch: 800	rescaled_fidelity = 0.836409	KL = 0.250430
+Epoch: 900	rescaled_fidelity = 0.810317	KL = 0.228293
+Epoch: 1000	rescaled_fidelity = 0.780518	KL = 0.215202
+Total time elapsed during training: 10.830 s
+Learn Training_data (1samples): 103 samples.
+Epoch: 100	rescaled_fidelity = 0.292364	KL = 1.178559
+Epoch: 200	rescaled_fidelity = 0.166337	KL = 0.727870
+Epoch: 300	rescaled_fidelity = 0.408577	KL = 0.551620
+Epoch: 400	rescaled_fidelity = 0.643212	KL = 0.464771
+Epoch: 500	rescaled_fidelity = 0.771322	KL = 0.407104
+Epoch: 600	rescaled_fidelity = 0.773921	KL = 0.352637
+Epoch: 700	rescaled_fidelity = 0.739980	KL = 0.314710
+Epoch: 800	rescaled_fidelity = 0.682648	KL = 0.288057
+Epoch: 900	rescaled_fidelity = 0.604654	KL = 0.267210
+Epoch: 1000	rescaled_fidelity = 0.500161	KL = 0.252521
+Total time elapsed during training: 10.786 s
+Learn Training_data (1samples): 103 samples.
+Epoch: 100	rescaled_fidelity = 0.730099	KL = 1.462453
+Epoch: 200	rescaled_fidelity = 0.782608	KL = 0.820740
+Epoch: 300	rescaled_fidelity = 0.771417	KL = 0.574457
+Epoch: 400	rescaled_fidelity = 0.739324	KL = 0.460245
+Epoch: 500	rescaled_fidelity = 0.705792	KL = 0.392456
+Epoch: 600	rescaled_fidelity = 0.674397	KL = 0.344886
+Epoch: 700	rescaled_fidelity = 0.635621	KL = 0.315816
+Epoch: 800	rescaled_fidelity = 0.603678	KL = 0.291437
+Epoch: 900	rescaled_fidelity = 0.565635	KL = 0.270813
+Epoch: 1000	rescaled_fidelity = 0.530136	KL = 0.257417
+Total time elapsed during training: 10.867 s
+Learn Training_data (1samples): 103 samples.
+Epoch: 100	rescaled_fidelity = 0.773846	KL = 1.120543
+Epoch: 200	rescaled_fidelity = 0.795212	KL = 0.694907
+Epoch: 300	rescaled_fidelity = 0.778628	KL = 0.525439
+Epoch: 400	rescaled_fidelity = 0.745961	KL = 0.442390
+Epoch: 500	rescaled_fidelity = 0.710888	KL = 0.380996
+Epoch: 600	rescaled_fidelity = 0.668717	KL = 0.345652
+Epoch: 700	rescaled_fidelity = 0.627776	KL = 0.315530
+Epoch: 800	rescaled_fidelity = 0.591160	KL = 0.294616
+Epoch: 900	rescaled_fidelity = 0.558933	KL = 0.271454
+Epoch: 1000	rescaled_fidelity = 0.523690	KL = 0.259105
+Total time elapsed during training: 10.811 s
+Learn Training_data (1samples): 103 samples.
+Epoch: 100	rescaled_fidelity = 0.778382	KL = 1.380727
+Epoch: 200	rescaled_fidelity = 0.864022	KL = 0.779130
+Epoch: 300	rescaled_fidelity = 0.895182	KL = 0.572167
+Epoch: 400	rescaled_fidelity = 0.909843	KL = 0.476090
+Epoch: 500	rescaled_fidelity = 0.920522	KL = 0.416743
+Epoch: 600	rescaled_fidelity = 0.928596	KL = 0.375228
+Epoch: 700	rescaled_fidelity = 0.935553	KL = 0.340835
+Epoch: 800	rescaled_fidelity = 0.940829	KL = 0.314549
+Epoch: 900	rescaled_fidelity = 0.946367	KL = 0.292080
+Epoch: 1000	rescaled_fidelity = 0.948351	KL = 0.279847
+Total time elapsed during training: 10.827 s
+Learn Training_data (1samples): 103 samples.
+Epoch: 100	rescaled_fidelity = 0.279204	KL = 1.482665
+Epoch: 200	rescaled_fidelity = 0.486918	KL = 0.833640
+Epoch: 300	rescaled_fidelity = 0.609094	KL = 0.594060
+Epoch: 400	rescaled_fidelity = 0.636020	KL = 0.500769
+Epoch: 500	rescaled_fidelity = 0.555873	KL = 0.428213
+Epoch: 600	rescaled_fidelity = 0.547814	KL = 0.349555
+Epoch: 700	rescaled_fidelity = 0.628882	KL = 0.300832
+Epoch: 800	rescaled_fidelity = 0.714168	KL = 0.271502
+Epoch: 900	rescaled_fidelity = 0.778406	KL = 0.247549
+Epoch: 1000	rescaled_fidelity = 0.824633	KL = 0.231005
+Total time elapsed during training: 10.792 s
+------------------- query: XZZXX-------------------
+Start measurement of initialize(1 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/1samples/query_by_amplitude_and_phase/query4
+['ZZZZZ' 'XZZXX' 'XZZXX' 'XZZXX' 'XZZXX']
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.617611	KL = 1.109840
+Epoch: 200	rescaled_fidelity = 0.418253	KL = 0.641068
+Epoch: 300	rescaled_fidelity = 0.475719	KL = 0.496660
+Epoch: 400	rescaled_fidelity = 0.660086	KL = 0.438507
+Epoch: 500	rescaled_fidelity = 0.759740	KL = 0.395778
+Epoch: 600	rescaled_fidelity = 0.812884	KL = 0.357666
+Epoch: 700	rescaled_fidelity = 0.836560	KL = 0.327794
+Epoch: 800	rescaled_fidelity = 0.851029	KL = 0.295970
+Epoch: 900	rescaled_fidelity = 0.856079	KL = 0.269973
+Epoch: 1000	rescaled_fidelity = 0.855630	KL = 0.257436
+Total time elapsed during training: 10.872 s
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.698712	KL = 1.231062
+Epoch: 200	rescaled_fidelity = 0.835642	KL = 0.778970
+Epoch: 300	rescaled_fidelity = 0.894357	KL = 0.597537
+Epoch: 400	rescaled_fidelity = 0.907568	KL = 0.481544
+Epoch: 500	rescaled_fidelity = 0.919962	KL = 0.394958
+Epoch: 600	rescaled_fidelity = 0.936384	KL = 0.336988
+Epoch: 700	rescaled_fidelity = 0.946197	KL = 0.297265
+Epoch: 800	rescaled_fidelity = 0.949771	KL = 0.268015
+Epoch: 900	rescaled_fidelity = 0.941867	KL = 0.248793
+Epoch: 1000	rescaled_fidelity = 0.921761	KL = 0.229089
+Total time elapsed during training: 10.945 s
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.752909	KL = 1.352800
+Epoch: 200	rescaled_fidelity = 0.802380	KL = 0.780127
+Epoch: 300	rescaled_fidelity = 0.791171	KL = 0.561352
+Epoch: 400	rescaled_fidelity = 0.768102	KL = 0.452113
+Epoch: 500	rescaled_fidelity = 0.744098	KL = 0.381764
+Epoch: 600	rescaled_fidelity = 0.716192	KL = 0.338845
+Epoch: 700	rescaled_fidelity = 0.693457	KL = 0.306311
+Epoch: 800	rescaled_fidelity = 0.670672	KL = 0.280151
+Epoch: 900	rescaled_fidelity = 0.651847	KL = 0.259390
+Epoch: 1000	rescaled_fidelity = 0.635442	KL = 0.246834
+Total time elapsed during training: 10.911 s
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.752686	KL = 1.101362
+Epoch: 200	rescaled_fidelity = 0.711368	KL = 0.706897
+Epoch: 300	rescaled_fidelity = 0.641116	KL = 0.533268
+Epoch: 400	rescaled_fidelity = 0.563079	KL = 0.431147
+Epoch: 500	rescaled_fidelity = 0.486889	KL = 0.365752
+Epoch: 600	rescaled_fidelity = 0.392535	KL = 0.323287
+Epoch: 700	rescaled_fidelity = 0.262848	KL = 0.291664
+Epoch: 800	rescaled_fidelity = 0.273721	KL = 0.271750
+Epoch: 900	rescaled_fidelity = 0.325058	KL = 0.242942
+Epoch: 1000	rescaled_fidelity = 0.402603	KL = 0.224070
+Total time elapsed during training: 10.883 s
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.750844	KL = 1.507316
+Epoch: 200	rescaled_fidelity = 0.832761	KL = 0.863086
+Epoch: 300	rescaled_fidelity = 0.872037	KL = 0.610062
+Epoch: 400	rescaled_fidelity = 0.890867	KL = 0.481789
+Epoch: 500	rescaled_fidelity = 0.903674	KL = 0.402552
+Epoch: 600	rescaled_fidelity = 0.910418	KL = 0.350616
+Epoch: 700	rescaled_fidelity = 0.917162	KL = 0.310351
+Epoch: 800	rescaled_fidelity = 0.921463	KL = 0.279494
+Epoch: 900	rescaled_fidelity = 0.925025	KL = 0.257238
+Epoch: 1000	rescaled_fidelity = 0.928353	KL = 0.239001
+Total time elapsed during training: 10.883 s
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.510958	KL = 1.455265
+Epoch: 200	rescaled_fidelity = 0.727254	KL = 0.885896
+Epoch: 300	rescaled_fidelity = 0.843550	KL = 0.655819
+Epoch: 400	rescaled_fidelity = 0.902201	KL = 0.529200
+Epoch: 500	rescaled_fidelity = 0.926141	KL = 0.447049
+Epoch: 600	rescaled_fidelity = 0.936170	KL = 0.380419
+Epoch: 700	rescaled_fidelity = 0.941066	KL = 0.333511
+Epoch: 800	rescaled_fidelity = 0.940935	KL = 0.296692
+Epoch: 900	rescaled_fidelity = 0.935245	KL = 0.273562
+Epoch: 1000	rescaled_fidelity = 0.925209	KL = 0.245811
+Total time elapsed during training: 10.913 s
+------------------- query: XZZXX-------------------
+Start measurement of initialize(1 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/1samples/query_by_amplitude_and_phase/query5
+['ZZZZZ' 'XZZXX' 'XZZXX' 'XZZXX' 'XZZXX' 'XZZXX']
+Learn Training_data (1samples): 105 samples.
+Epoch: 100	rescaled_fidelity = 0.681911	KL = 0.806514
+Epoch: 200	rescaled_fidelity = 0.511563	KL = 0.563063
+Epoch: 300	rescaled_fidelity = 0.320015	KL = 0.482567
+Epoch: 400	rescaled_fidelity = 0.542620	KL = 0.433279
+Epoch: 500	rescaled_fidelity = 0.658429	KL = 0.396905
+Epoch: 600	rescaled_fidelity = 0.718752	KL = 0.357500
+Epoch: 700	rescaled_fidelity = 0.747528	KL = 0.325280
+Epoch: 800	rescaled_fidelity = 0.762527	KL = 0.297505
+Epoch: 900	rescaled_fidelity = 0.765887	KL = 0.277075
+Epoch: 1000	rescaled_fidelity = 0.763140	KL = 0.256031
+Total time elapsed during training: 11.144 s
+Learn Training_data (1samples): 105 samples.
+Epoch: 100	rescaled_fidelity = 0.639757	KL = 1.097632
+Epoch: 200	rescaled_fidelity = 0.799515	KL = 0.739589
+Epoch: 300	rescaled_fidelity = 0.875679	KL = 0.588167
+Epoch: 400	rescaled_fidelity = 0.913310	KL = 0.485084
+Epoch: 500	rescaled_fidelity = 0.929505	KL = 0.411401
+Epoch: 600	rescaled_fidelity = 0.936558	KL = 0.356615
+Epoch: 700	rescaled_fidelity = 0.934972	KL = 0.318613
+Epoch: 800	rescaled_fidelity = 0.921433	KL = 0.288047
+Epoch: 900	rescaled_fidelity = 0.890367	KL = 0.263806
+Epoch: 1000	rescaled_fidelity = 0.833583	KL = 0.244585
+Total time elapsed during training: 11.152 s
+Learn Training_data (1samples): 105 samples.
+Epoch: 100	rescaled_fidelity = 0.719920	KL = 0.847907
+Epoch: 200	rescaled_fidelity = 0.771578	KL = 0.650121
+Epoch: 300	rescaled_fidelity = 0.784234	KL = 0.541514
+Epoch: 400	rescaled_fidelity = 0.779888	KL = 0.458430
+Epoch: 500	rescaled_fidelity = 0.762392	KL = 0.397471
+Epoch: 600	rescaled_fidelity = 0.742260	KL = 0.352510
+Epoch: 700	rescaled_fidelity = 0.722645	KL = 0.315587
+Epoch: 800	rescaled_fidelity = 0.702166	KL = 0.284823
+Epoch: 900	rescaled_fidelity = 0.682388	KL = 0.262463
+Epoch: 1000	rescaled_fidelity = 0.662602	KL = 0.249854
+Total time elapsed during training: 11.151 s
+Learn Training_data (1samples): 105 samples.
+Epoch: 100	rescaled_fidelity = 0.751847	KL = 0.906321
+Epoch: 200	rescaled_fidelity = 0.861040	KL = 0.598566
+Epoch: 300	rescaled_fidelity = 0.904212	KL = 0.476097
+Epoch: 400	rescaled_fidelity = 0.924910	KL = 0.392132
+Epoch: 500	rescaled_fidelity = 0.934643	KL = 0.342033
+Epoch: 600	rescaled_fidelity = 0.938886	KL = 0.305142
+Epoch: 700	rescaled_fidelity = 0.941260	KL = 0.277437
+Epoch: 800	rescaled_fidelity = 0.941280	KL = 0.258728
+Epoch: 900	rescaled_fidelity = 0.941142	KL = 0.240316
+Epoch: 1000	rescaled_fidelity = 0.940256	KL = 0.226160
+Total time elapsed during training: 11.111 s
+Learn Training_data (1samples): 105 samples.
+Epoch: 100	rescaled_fidelity = 0.724927	KL = 0.987233
+Epoch: 200	rescaled_fidelity = 0.842932	KL = 0.725293
+Epoch: 300	rescaled_fidelity = 0.898150	KL = 0.582504
+Epoch: 400	rescaled_fidelity = 0.916856	KL = 0.477931
+Epoch: 500	rescaled_fidelity = 0.924782	KL = 0.399950
+Epoch: 600	rescaled_fidelity = 0.929088	KL = 0.348132
+Epoch: 700	rescaled_fidelity = 0.931777	KL = 0.308504
+Epoch: 800	rescaled_fidelity = 0.929780	KL = 0.283663
+Epoch: 900	rescaled_fidelity = 0.928503	KL = 0.256818
+Epoch: 1000	rescaled_fidelity = 0.925202	KL = 0.234568
+Total time elapsed during training: 11.104 s
+Learn Training_data (1samples): 105 samples.
+Epoch: 100	rescaled_fidelity = 0.228219	KL = 1.035184
+Epoch: 200	rescaled_fidelity = 0.624409	KL = 0.717574
+Epoch: 300	rescaled_fidelity = 0.772390	KL = 0.574796
+Epoch: 400	rescaled_fidelity = 0.830673	KL = 0.479323
+Epoch: 500	rescaled_fidelity = 0.845739	KL = 0.403411
+Epoch: 600	rescaled_fidelity = 0.837547	KL = 0.350211
+Epoch: 700	rescaled_fidelity = 0.811457	KL = 0.311495
+Epoch: 800	rescaled_fidelity = 0.766802	KL = 0.282370
+Epoch: 900	rescaled_fidelity = 0.702016	KL = 0.264821
+Epoch: 1000	rescaled_fidelity = 0.617667	KL = 0.240979
+Total time elapsed during training: 11.080 s
+------------------- query: XZZXX-------------------
+Start measurement of initialize(1 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/1samples/query_by_amplitude_and_phase/query6
+['ZZZZZ' 'XZZXX' 'XZZXX' 'XZZXX' 'XZZXX' 'XZZXX' 'XZZXX']
+Learn Training_data (1samples): 106 samples.
+Epoch: 100	rescaled_fidelity = 0.710481	KL = 0.776770
+Epoch: 200	rescaled_fidelity = 0.854351	KL = 0.528621
+Epoch: 300	rescaled_fidelity = 0.905757	KL = 0.410413
+Epoch: 400	rescaled_fidelity = 0.925799	KL = 0.343561
+Epoch: 500	rescaled_fidelity = 0.933982	KL = 0.304214
+Epoch: 600	rescaled_fidelity = 0.934581	KL = 0.272525
+Epoch: 700	rescaled_fidelity = 0.931265	KL = 0.253154
+Epoch: 800	rescaled_fidelity = 0.927298	KL = 0.235151
+Epoch: 900	rescaled_fidelity = 0.920257	KL = 0.227348
+Epoch: 1000	rescaled_fidelity = 0.914349	KL = 0.212048
+Total time elapsed during training: 11.197 s
+Learn Training_data (1samples): 106 samples.
+Epoch: 100	rescaled_fidelity = 0.751920	KL = 0.962214
+Epoch: 200	rescaled_fidelity = 0.815603	KL = 0.636388
+Epoch: 300	rescaled_fidelity = 0.805092	KL = 0.495338
+Epoch: 400	rescaled_fidelity = 0.750408	KL = 0.423674
+Epoch: 500	rescaled_fidelity = 0.673317	KL = 0.373730
+Epoch: 600	rescaled_fidelity = 0.581561	KL = 0.338779
+Epoch: 700	rescaled_fidelity = 0.470814	KL = 0.321384
+Epoch: 800	rescaled_fidelity = 0.340970	KL = 0.287744
+Epoch: 900	rescaled_fidelity = 0.282422	KL = 0.269656
+Epoch: 1000	rescaled_fidelity = 0.363648	KL = 0.252667
+Total time elapsed during training: 11.251 s
+Learn Training_data (1samples): 106 samples.
+Epoch: 100	rescaled_fidelity = 0.750387	KL = 0.872685
+Epoch: 200	rescaled_fidelity = 0.854664	KL = 0.685013
+Epoch: 300	rescaled_fidelity = 0.901535	KL = 0.492686
+Epoch: 400	rescaled_fidelity = 0.913756	KL = 0.397547
+Epoch: 500	rescaled_fidelity = 0.909978	KL = 0.347850
+Epoch: 600	rescaled_fidelity = 0.899146	KL = 0.315543
+Epoch: 700	rescaled_fidelity = 0.885736	KL = 0.290059
+Epoch: 800	rescaled_fidelity = 0.873722	KL = 0.270116
+Epoch: 900	rescaled_fidelity = 0.862889	KL = 0.253778
+Epoch: 1000	rescaled_fidelity = 0.853510	KL = 0.238226
+Total time elapsed during training: 11.234 s
+Learn Training_data (1samples): 106 samples.
+Epoch: 100	rescaled_fidelity = 0.721461	KL = 0.943935
+Epoch: 200	rescaled_fidelity = 0.831392	KL = 0.604460
+Epoch: 300	rescaled_fidelity = 0.884967	KL = 0.457231
+Epoch: 400	rescaled_fidelity = 0.914113	KL = 0.374304
+Epoch: 500	rescaled_fidelity = 0.932079	KL = 0.320290
+Epoch: 600	rescaled_fidelity = 0.942601	KL = 0.289145
+Epoch: 700	rescaled_fidelity = 0.948462	KL = 0.270351
+Epoch: 800	rescaled_fidelity = 0.954518	KL = 0.245434
+Epoch: 900	rescaled_fidelity = 0.957368	KL = 0.229377
+Epoch: 1000	rescaled_fidelity = 0.958025	KL = 0.221136
+Total time elapsed during training: 11.165 s
+Learn Training_data (1samples): 106 samples.
+Epoch: 100	rescaled_fidelity = 0.480672	KL = 1.142921
+Epoch: 200	rescaled_fidelity = 0.428411	KL = 0.774172
+Epoch: 300	rescaled_fidelity = 0.460978	KL = 0.572497
+Epoch: 400	rescaled_fidelity = 0.512071	KL = 0.458213
+Epoch: 500	rescaled_fidelity = 0.546435	KL = 0.390156
+Epoch: 600	rescaled_fidelity = 0.574215	KL = 0.338782
+Epoch: 700	rescaled_fidelity = 0.589897	KL = 0.301070
+Epoch: 800	rescaled_fidelity = 0.600411	KL = 0.272681
+Epoch: 900	rescaled_fidelity = 0.607669	KL = 0.249331
+Epoch: 1000	rescaled_fidelity = 0.608661	KL = 0.231560
+Total time elapsed during training: 11.181 s
+Learn Training_data (1samples): 106 samples.
+Epoch: 100	rescaled_fidelity = 0.368566	KL = 1.103501
+Epoch: 200	rescaled_fidelity = 0.566805	KL = 0.752697
+Epoch: 300	rescaled_fidelity = 0.693576	KL = 0.575324
+Epoch: 400	rescaled_fidelity = 0.766714	KL = 0.472561
+Epoch: 500	rescaled_fidelity = 0.812255	KL = 0.405144
+Epoch: 600	rescaled_fidelity = 0.842691	KL = 0.361574
+Epoch: 700	rescaled_fidelity = 0.863455	KL = 0.328058
+Epoch: 800	rescaled_fidelity = 0.875197	KL = 0.301403
+Epoch: 900	rescaled_fidelity = 0.885992	KL = 0.279866
+Epoch: 1000	rescaled_fidelity = 0.895273	KL = 0.262821
+Total time elapsed during training: 11.208 s
+------------------- query: XYYYX-------------------
+Start measurement of initialize(1 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/1samples/query_by_amplitude_and_phase/query7
+['ZZZZZ' 'XZZXX' 'XZZXX' 'XZZXX' 'XZZXX' 'XZZXX' 'XZZXX' 'XYYYX']
+Learn Training_data (1samples): 107 samples.
+Epoch: 100	rescaled_fidelity = 0.785111	KL = 0.803497
+Epoch: 200	rescaled_fidelity = 0.868190	KL = 0.472942
+Epoch: 300	rescaled_fidelity = 0.898165	KL = 0.354024
+Epoch: 400	rescaled_fidelity = 0.917351	KL = 0.288548
+Epoch: 500	rescaled_fidelity = 0.928885	KL = 0.254382
+Epoch: 600	rescaled_fidelity = 0.938101	KL = 0.227327
+Epoch: 700	rescaled_fidelity = 0.945106	KL = 0.207454
+Epoch: 800	rescaled_fidelity = 0.949642	KL = 0.195494
+Epoch: 900	rescaled_fidelity = 0.955013	KL = 0.179055
+Epoch: 1000	rescaled_fidelity = 0.957637	KL = 0.172757
+Total time elapsed during training: 13.048 s
+Learn Training_data (1samples): 107 samples.
+Epoch: 100	rescaled_fidelity = 0.762155	KL = 0.975118
+Epoch: 200	rescaled_fidelity = 0.852287	KL = 0.592538
+Epoch: 300	rescaled_fidelity = 0.893711	KL = 0.418011
+Epoch: 400	rescaled_fidelity = 0.916303	KL = 0.328583
+Epoch: 500	rescaled_fidelity = 0.928790	KL = 0.283995
+Epoch: 600	rescaled_fidelity = 0.938801	KL = 0.246672
+Epoch: 700	rescaled_fidelity = 0.945237	KL = 0.224226
+Epoch: 800	rescaled_fidelity = 0.949857	KL = 0.207794
+Epoch: 900	rescaled_fidelity = 0.953682	KL = 0.195359
+Epoch: 1000	rescaled_fidelity = 0.958097	KL = 0.177553
+Total time elapsed during training: 13.081 s
+Learn Training_data (1samples): 107 samples.
+Epoch: 100	rescaled_fidelity = 0.369937	KL = 1.002645
+Epoch: 200	rescaled_fidelity = 0.705054	KL = 0.603834
+Epoch: 300	rescaled_fidelity = 0.843634	KL = 0.442364
+Epoch: 400	rescaled_fidelity = 0.888482	KL = 0.364589
+Epoch: 500	rescaled_fidelity = 0.911047	KL = 0.313311
+Epoch: 600	rescaled_fidelity = 0.923970	KL = 0.279203
+Epoch: 700	rescaled_fidelity = 0.934846	KL = 0.251474
+Epoch: 800	rescaled_fidelity = 0.942028	KL = 0.229645
+Epoch: 900	rescaled_fidelity = 0.946943	KL = 0.213979
+Epoch: 1000	rescaled_fidelity = 0.951872	KL = 0.199441
+Total time elapsed during training: 13.047 s
+Learn Training_data (1samples): 107 samples.
+Epoch: 100	rescaled_fidelity = 0.792349	KL = 0.886213
+Epoch: 200	rescaled_fidelity = 0.870530	KL = 0.536089
+Epoch: 300	rescaled_fidelity = 0.903288	KL = 0.400572
+Epoch: 400	rescaled_fidelity = 0.922917	KL = 0.322046
+Epoch: 500	rescaled_fidelity = 0.934519	KL = 0.278025
+Epoch: 600	rescaled_fidelity = 0.942102	KL = 0.248959
+Epoch: 700	rescaled_fidelity = 0.947879	KL = 0.228094
+Epoch: 800	rescaled_fidelity = 0.952356	KL = 0.212440
+Epoch: 900	rescaled_fidelity = 0.957418	KL = 0.192207
+Epoch: 1000	rescaled_fidelity = 0.960455	KL = 0.181986
+Total time elapsed during training: 13.035 s
+Learn Training_data (1samples): 107 samples.
+Epoch: 100	rescaled_fidelity = 0.610411	KL = 1.114627
+Epoch: 200	rescaled_fidelity = 0.624786	KL = 0.637553
+Epoch: 300	rescaled_fidelity = 0.794096	KL = 0.514012
+Epoch: 400	rescaled_fidelity = 0.871239	KL = 0.436983
+Epoch: 500	rescaled_fidelity = 0.906840	KL = 0.357194
+Epoch: 600	rescaled_fidelity = 0.926170	KL = 0.304486
+Epoch: 700	rescaled_fidelity = 0.937052	KL = 0.267830
+Epoch: 800	rescaled_fidelity = 0.944685	KL = 0.243054
+Epoch: 900	rescaled_fidelity = 0.950138	KL = 0.222820
+Epoch: 1000	rescaled_fidelity = 0.953448	KL = 0.210730
+Total time elapsed during training: 13.061 s
+Learn Training_data (1samples): 107 samples.
+Epoch: 100	rescaled_fidelity = 0.338329	KL = 1.143047
+Epoch: 200	rescaled_fidelity = 0.476741	KL = 0.747534
+Epoch: 300	rescaled_fidelity = 0.702611	KL = 0.593295
+Epoch: 400	rescaled_fidelity = 0.796240	KL = 0.440199
+Epoch: 500	rescaled_fidelity = 0.841871	KL = 0.350410
+Epoch: 600	rescaled_fidelity = 0.867306	KL = 0.292010
+Epoch: 700	rescaled_fidelity = 0.884997	KL = 0.256150
+Epoch: 800	rescaled_fidelity = 0.899640	KL = 0.225427
+Epoch: 900	rescaled_fidelity = 0.909206	KL = 0.208418
+Epoch: 1000	rescaled_fidelity = 0.916376	KL = 0.199812
+Total time elapsed during training: 13.044 s
+Threshold value is reached. Finish Learning.
+Save the Callbacks:
+rescaled_fidelity
+KL
+Start the baseline reconstruction.
+Start measurement of initialize(107 configurations).
+0 samples generated.
+13 samples generated.
+26 samples generated.
+39 samples generated.
+52 samples generated.
+65 samples generated.
+78 samples generated.
+91 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/1samples/query_by_amplitude_and_phase/baseline
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/../baseline_not_rotated/
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.594972	KL = 1.688919
+Epoch: 200	rescaled_fidelity = 0.579189	KL = 1.603112
+Epoch: 300	rescaled_fidelity = 0.545990	KL = 1.511677
+Epoch: 400	rescaled_fidelity = 0.596487	KL = 1.498665
+Epoch: 500	rescaled_fidelity = 0.626237	KL = 1.361288
+Epoch: 600	rescaled_fidelity = 0.657351	KL = 1.254852
+Epoch: 700	rescaled_fidelity = 0.691571	KL = 1.143792
+Epoch: 800	rescaled_fidelity = 0.721745	KL = 1.056407
+Epoch: 900	rescaled_fidelity = 0.757145	KL = 0.948556
+Epoch: 1000	rescaled_fidelity = 0.790037	KL = 0.833834
+Total time elapsed during training: 24.068 s
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.542444	KL = 1.694376
+Epoch: 200	rescaled_fidelity = 0.575196	KL = 1.598739
+Epoch: 300	rescaled_fidelity = 0.534306	KL = 1.458315
+Epoch: 400	rescaled_fidelity = 0.610934	KL = 1.330846
+Epoch: 500	rescaled_fidelity = 0.691180	KL = 1.240223
+Epoch: 600	rescaled_fidelity = 0.751948	KL = 0.984358
+Epoch: 700	rescaled_fidelity = 0.793491	KL = 0.802396
+Epoch: 800	rescaled_fidelity = 0.813940	KL = 0.681622
+Epoch: 900	rescaled_fidelity = 0.829227	KL = 0.575386
+Epoch: 1000	rescaled_fidelity = 0.836945	KL = 0.524846
+Total time elapsed during training: 24.081 s
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.634120	KL = 1.653489
+Epoch: 200	rescaled_fidelity = 0.645016	KL = 1.559416
+Epoch: 300	rescaled_fidelity = 0.628496	KL = 1.431398
+Epoch: 400	rescaled_fidelity = 0.644070	KL = 1.270717
+Epoch: 500	rescaled_fidelity = 0.665239	KL = 1.128014
+Epoch: 600	rescaled_fidelity = 0.652391	KL = 1.014601
+Epoch: 700	rescaled_fidelity = 0.674855	KL = 0.942884
+Epoch: 800	rescaled_fidelity = 0.725158	KL = 0.844066
+Epoch: 900	rescaled_fidelity = 0.756270	KL = 0.773737
+Epoch: 1000	rescaled_fidelity = 0.779783	KL = 0.716702
+Total time elapsed during training: 24.135 s
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.527759	KL = 1.727714
+Epoch: 200	rescaled_fidelity = 0.544015	KL = 1.648108
+Epoch: 300	rescaled_fidelity = 0.639526	KL = 1.507439
+Epoch: 400	rescaled_fidelity = 0.736978	KL = 1.229308
+Epoch: 500	rescaled_fidelity = 0.818867	KL = 0.845363
+Epoch: 600	rescaled_fidelity = 0.846916	KL = 0.609473
+Epoch: 700	rescaled_fidelity = 0.868858	KL = 0.490115
+Epoch: 800	rescaled_fidelity = 0.883703	KL = 0.395517
+Epoch: 900	rescaled_fidelity = 0.889419	KL = 0.339700
+Epoch: 1000	rescaled_fidelity = 0.887145	KL = 0.304243
+Total time elapsed during training: 24.081 s
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.415712	KL = 1.731813
+Epoch: 200	rescaled_fidelity = 0.483686	KL = 1.596275
+Epoch: 300	rescaled_fidelity = 0.512390	KL = 1.442985
+Epoch: 400	rescaled_fidelity = 0.545335	KL = 1.320658
+Epoch: 500	rescaled_fidelity = 0.574063	KL = 1.264689
+Epoch: 600	rescaled_fidelity = 0.591057	KL = 1.187720
+Epoch: 700	rescaled_fidelity = 0.605782	KL = 1.094546
+Epoch: 800	rescaled_fidelity = 0.641353	KL = 1.000346
+Epoch: 900	rescaled_fidelity = 0.659353	KL = 0.896710
+Epoch: 1000	rescaled_fidelity = 0.690294	KL = 0.806333
+Total time elapsed during training: 24.181 s
+Learn Training_data (1samples): 104 samples.
+Epoch: 100	rescaled_fidelity = 0.506325	KL = 1.481252
+Epoch: 200	rescaled_fidelity = 0.565071	KL = 1.259183
+Epoch: 300	rescaled_fidelity = 0.558569	KL = 0.924901
+Epoch: 400	rescaled_fidelity = 0.621264	KL = 0.688852
+Epoch: 500	rescaled_fidelity = 0.638431	KL = 0.557712
+Epoch: 600	rescaled_fidelity = 0.616586	KL = 0.479288
+Epoch: 700	rescaled_fidelity = 0.587188	KL = 0.422537
+Epoch: 800	rescaled_fidelity = 0.563283	KL = 0.383834
+Epoch: 900	rescaled_fidelity = 0.550905	KL = 0.351111
+Epoch: 1000	/project/th-scratch/h/Hannah.Lange/Projektpraktikum/ENVDIR/lib/python3.7/site-packages/qiskit/utils/deprecation.py:62: DeprecationWarning: Using a qobj for run() is deprecated as of qiskit-aer 0.9.0 and will be removed no sooner than 3 months from that release date. Transpiled circuits should now be passed directly using `backend.run(circuits, **run_options).
+  return func(*args, **kwargs)
+/project/th-scratch/h/Hannah.Lange/Projektpraktikum/ENVDIR/lib/python3.7/site-packages/qiskit/utils/deprecation.py:62: DeprecationWarning: Using a qobj for run() is deprecated as of qiskit-aer 0.9.0 and will be removed no sooner than 3 months from that release date. Transpiled circuits should now be passed directly using `backend.run(circuits, **run_options).
+  return func(*args, **kwargs)
+rescaled_fidelity = 0.542151	KL = 0.331569
+Total time elapsed during training: 24.037 s
