@@ -1,0 +1,187 @@
+Matplotlib created a temporary config/cache directory at /tmp/user/23375/matplotlib-rwdetyxw because the default path (/project/theorie/h/Hannah.Lange/.cache/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+0.9999999999999998
+use quantum device ibmq_santiago
+------ Start GLOBAL rotations to different measurement configurations.------
+Measure in Z basis.
+Start measurement of initialize(2 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/withRotation/1samples/2samples
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/tmp
+tensor([[1., 0., 0., 1., 0.],
+        [1., 1., 1., 0., 0.]], dtype=torch.float64)
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.910754	KL = 0.952938
+Epoch: 200	rescaled_fidelity = 0.888743	KL = 1.271797
+Total time elapsed during training:  0.970 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.885990	KL = 1.258714
+Epoch: 200	rescaled_fidelity = 0.863494	KL = 1.625593
+Total time elapsed during training:  0.883 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.907370	KL = 0.888432
+Epoch: 200	rescaled_fidelity = 0.880985	KL = 1.305854
+Total time elapsed during training:  0.821 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.896273	KL = 1.042487
+Epoch: 200	rescaled_fidelity = 0.871265	KL = 1.433231
+Total time elapsed during training:  0.823 s
+Measure in X basis.
+Start measurement of initialize(2 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/withRotation/1samples/2samples
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/tmp
+tensor([[0., 0., 0., 0., 0.],
+        [0., 0., 1., 0., 0.]], dtype=torch.float64)
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.830462	KL = 1.777810
+Epoch: 200	rescaled_fidelity = 0.774446	KL = 2.554628
+Total time elapsed during training:  0.858 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.837614	KL = 1.654921
+Epoch: 200	rescaled_fidelity = 0.788079	KL = 2.340658
+Total time elapsed during training:  0.879 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.865749	KL = 1.286015
+Epoch: 200	rescaled_fidelity = 0.798913	KL = 2.173142
+Total time elapsed during training:  0.884 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.870567	KL = 1.259914
+Epoch: 200	rescaled_fidelity = 0.796305	KL = 2.227999
+Total time elapsed during training:  0.882 s
+Measure in Y basis.
+Start measurement of initialize(2 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/withRotation/1samples/2samples
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/tmp
+tensor([[1., 1., 1., 0., 1.],
+        [1., 0., 1., 0., 0.]], dtype=torch.float64)
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.847225	KL = 1.810789
+Epoch: 200	rescaled_fidelity = 0.801596	KL = 2.639092
+Total time elapsed during training:  0.893 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.816441	KL = 2.242220
+Epoch: 200	rescaled_fidelity = 0.787613	KL = 2.809448
+Total time elapsed during training:  0.880 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.843594	KL = 1.791976
+Epoch: 200	rescaled_fidelity = 0.797943	KL = 2.654588
+Total time elapsed during training:  0.887 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.826268	KL = 2.055903
+Epoch: 200	rescaled_fidelity = 0.797720	KL = 2.601302
+Total time elapsed during training:  0.885 s
+[0.2162094410944282, 0.1107315120312888, 0.18503925575797758]
+Using the X basis for the amplitude measurements.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/tmp
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/../
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/withRotation/1samples/2samples
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.812351	KL = 1.039117
+Epoch: 200	rescaled_fidelity = 0.848718	KL = 0.820142
+Epoch: 300	rescaled_fidelity = 0.842546	KL = 0.856635
+Epoch: 400	rescaled_fidelity = 0.856898	KL = 0.772182
+Epoch: 500	rescaled_fidelity = 0.854170	KL = 0.788125
+Epoch: 600	rescaled_fidelity = 0.865958	KL = 0.719594
+Epoch: 700	rescaled_fidelity = 0.859678	KL = 0.755985
+Epoch: 800	rescaled_fidelity = 0.868911	KL = 0.702575
+Epoch: 900	rescaled_fidelity = 0.864279	KL = 0.729300
+Epoch: 1000	rescaled_fidelity = 0.854967	KL = 0.783460
+Total time elapsed during training:  4.205 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.752884	KL = 1.419221
+Epoch: 200	rescaled_fidelity = 0.810875	KL = 1.048207
+Epoch: 300	rescaled_fidelity = 0.824499	KL = 0.964899
+Epoch: 400	rescaled_fidelity = 0.836450	KL = 0.892943
+Epoch: 500	rescaled_fidelity = 0.859604	KL = 0.756415
+Epoch: 600	rescaled_fidelity = 0.849899	KL = 0.813187
+Epoch: 700	rescaled_fidelity = 0.847803	KL = 0.825533
+Epoch: 800	rescaled_fidelity = 0.847731	KL = 0.825961
+Epoch: 900	rescaled_fidelity = 0.836486	KL = 0.892725
+Epoch: 1000	rescaled_fidelity = 0.846004	KL = 0.836157
+Total time elapsed during training:  4.385 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.771810	KL = 1.295084
+Epoch: 200	rescaled_fidelity = 0.826655	KL = 0.951842
+Epoch: 300	rescaled_fidelity = 0.847362	KL = 0.828139
+Epoch: 400	rescaled_fidelity = 0.843663	KL = 0.850011
+Epoch: 500	rescaled_fidelity = 0.851749	KL = 0.802319
+Epoch: 600	rescaled_fidelity = 0.851409	KL = 0.804311
+Epoch: 700	rescaled_fidelity = 0.855833	KL = 0.778402
+Epoch: 800	rescaled_fidelity = 0.842454	KL = 0.857182
+Epoch: 900	rescaled_fidelity = 0.840576	KL = 0.868338
+Epoch: 1000	rescaled_fidelity = 0.854589	KL = 0.785674
+Total time elapsed during training:  4.136 s
+Learn Training_data (withRotation): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.755571	KL = 1.401405
+Epoch: 200	rescaled_fidelity = 0.790897	KL = 1.172936
+Epoch: 300	rescaled_fidelity = 0.818317	KL = 1.002526
+Epoch: 400	rescaled_fidelity = 0.821206	KL = 0.984906
+Epoch: 500	rescaled_fidelity = 0.833421	KL = 0.911079
+Epoch: 600	rescaled_fidelity = 0.859992	KL = 0.754163
+Epoch: 700	rescaled_fidelity = 0.852820	KL = 0.796033
+Epoch: 800	rescaled_fidelity = 0.851170	KL = 0.805719
+Epoch: 900	rescaled_fidelity = 0.856330	KL = 0.775500
+Epoch: 1000	rescaled_fidelity = 0.855739	KL = 0.778951
+Total time elapsed during training:  4.426 s
+Threshold value is reached. Finish Learning.
+Save the Callbacks:
+rescaled_fidelity
+KL
+Start the baseline reconstruction.
+Start measurement of initialize(2 configurations).
+0 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/initialize/1samples/query_by_amplitude_and_phase/baseline
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/../baseline_not_rotated/
+Learn Training_data (1samples): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.882640	KL = 1.234687
+Epoch: 200	rescaled_fidelity = 0.840207	KL = 1.817492
+Epoch: 300	rescaled_fidelity = 0.821000	KL = 2.114597
+Epoch: 400	rescaled_fidelity = 0.804466	KL = 2.395183
+Epoch: 500	rescaled_fidelity = 0.790245	KL = 2.650091
+Epoch: 600	rescaled_fidelity = 0.784143	KL = 2.772171
+Epoch: 700	rescaled_fidelity = 0.779108	KL = 2.870793
+Epoch: 800	rescaled_fidelity = 0.775993	KL = 2.934823
+Epoch: 900	rescaled_fidelity = 0.765096	KL = 3.177657
+Epoch: 1000	rescaled_fidelity = 0.761698	KL = 3.254033
+Total time elapsed during training:  4.082 s
+Learn Training_data (1samples): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.865503	KL = 1.422202
+Epoch: 200	rescaled_fidelity = 0.826036	KL = 1.990644
+Epoch: 300	rescaled_fidelity = 0.797411	KL = 2.480624
+Epoch: 400	rescaled_fidelity = 0.785099	KL = 2.717426
+Epoch: 500	rescaled_fidelity = 0.776867	KL = 2.882552
+Epoch: 600	rescaled_fidelity = 0.771068	KL = 3.004389
+Epoch: 700	rescaled_fidelity = 0.770668	KL = 3.008163
+Epoch: 800	rescaled_fidelity = 0.767062	KL = 3.088397
+Epoch: 900	rescaled_fidelity = 0.761985	KL = 3.201909
+Epoch: 1000	rescaled_fidelity = 0.755674	KL = 3.352398
+Total time elapsed during training:  4.139 s
+Learn Training_data (1samples): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.873489	KL = 1.292159
+Epoch: 200	rescaled_fidelity = 0.834671	KL = 1.834197
+Epoch: 300	rescaled_fidelity = 0.803642	KL = 2.340381
+Epoch: 400	rescaled_fidelity = 0.791945	KL = 2.547480
+Epoch: 500	rescaled_fidelity = 0.783864	KL = 2.696164
+Epoch: 600	rescaled_fidelity = 0.774100	KL = 2.890056
+Epoch: 700	rescaled_fidelity = 0.770534	KL = 2.958876
+Epoch: 800	rescaled_fidelity = 0.764030	KL = 3.097046
+Epoch: 900	rescaled_fidelity = 0.759349	KL = 3.201586
+Epoch: 1000	rescaled_fidelity = 0.758586	KL = 3.217434
+Total time elapsed during training:  4.147 s
+Learn Training_data (1samples): 2 samples.
+Epoch: 100	rescaled_fidelity = 0.883195	KL = 1.211957
+Epoch: 200	rescaled_fidelity = 0.834765	KL = 1.878890
+Epoch: 300	rescaled_fidelity = 0.812167	KL = 2.248982
+Epoch: 400	rescaled_fidelity = 0.795968	KL = 2.537713
+Epoch: 500	rescaled_fidelity = 0.778955	KL = 2.868616
+Epoch: 600	rescaled_fidelity = 0.775425	KL = 2.949869
+Epoch: 700	rescaled_fidelity = 0.771170	KL = 3.039366
+Epoch: 800	rescaled_fidelity = 0.765446	KL = 3.159913
+Epoch: 900	rescaled_fidelity = 0.760496	KL = 3.270644
+Epoch: 1000	/project/th-scratch/h/Hannah.Lange/Projektpraktikum/ENVDIR/lib/python3.7/site-packages/qiskit/utils/deprecation.py:62: DeprecationWarning: Using a qobj for run() is deprecated as of qiskit-aer 0.9.0 and will be removed no sooner than 3 months from that release date. Transpiled circuits should now be passed directly using `backend.run(circuits, **run_options).
+  return func(*args, **kwargs)
+/project/th-scratch/h/Hannah.Lange/Projektpraktikum/ENVDIR/lib/python3.7/site-packages/qiskit/utils/deprecation.py:62: DeprecationWarning: Using a qobj for run() is deprecated as of qiskit-aer 0.9.0 and will be removed no sooner than 3 months from that release date. Transpiled circuits should now be passed directly using `backend.run(circuits, **run_options).
+  return func(*args, **kwargs)
+rescaled_fidelity = 0.755469	KL = 3.399516
+Total time elapsed during training:  4.411 s
