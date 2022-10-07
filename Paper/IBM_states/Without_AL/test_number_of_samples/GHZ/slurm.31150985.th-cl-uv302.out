@@ -1,0 +1,289 @@
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-93j5pqdi because the default path (/home/h/Hannah.Lange/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib is building the font cache; this may take a moment.
+Start measurement of GHZ(100 configurations).
+0 samples generated.
+16 samples generated.
+32 samples generated.
+48 samples generated.
+64 samples generated.
+80 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/Test
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/../
+Learn Training_data/Test: 96 samples.
+Epoch: 100	KL = 1.833659	fidelity = 0.022973
+Epoch: 200	KL = 1.743371	fidelity = 0.016293
+Epoch: 300	KL = 1.662870	fidelity = 0.009728
+Epoch: 400	KL = 1.639480	fidelity = 0.006755
+Epoch: 500	KL = 1.601564	fidelity = 0.005878
+Epoch: 600	KL = 1.344655	fidelity = 0.056117
+Epoch: 700	KL = 1.224030	fidelity = 0.084971
+Epoch: 800	KL = 1.122640	fidelity = 0.127483
+Epoch: 900	KL = 1.026803	fidelity = 0.183364
+Epoch: 1000	KL = 0.915136	fidelity = 0.237002
+Epoch: 1100	KL = 0.823713	fidelity = 0.276664
+Epoch: 1200	KL = 0.752524	fidelity = 0.313696
+Epoch: 1300	KL = 0.701759	fidelity = 0.343835
+Epoch: 1400	KL = 0.662495	fidelity = 0.371025
+Epoch: 1500	KL = 0.623584	fidelity = 0.401634
+Epoch: 1600	KL = 0.589545	fidelity = 0.430857
+Epoch: 1700	KL = 0.551106	fidelity = 0.463597
+Epoch: 1800	KL = 0.508689	fidelity = 0.495071
+Epoch: 1900	KL = 0.479297	fidelity = 0.517775
+Epoch: 2000	KL = 0.457412	fidelity = 0.537056
+Epoch: 2100	KL = 0.435347	fidelity = 0.553891
+Epoch: 2200	KL = 0.410426	fidelity = 0.569424
+Epoch: 2300	KL = 0.391027	fidelity = 0.582166
+Epoch: 2400	KL = 0.375630	fidelity = 0.594272
+Epoch: 2500	KL = 0.361706	fidelity = 0.603897
+Epoch: 2600	KL = 0.349895	fidelity = 0.614437
+Epoch: 2700	KL = 0.340708	fidelity = 0.622404
+Epoch: 2800	KL = 0.331619	fidelity = 0.630608
+Epoch: 2900	KL = 0.323294	fidelity = 0.638707
+Epoch: 3000	KL = 0.315448	fidelity = 0.646840
+Epoch: 3100	KL = 0.307462	fidelity = 0.653907
+Epoch: 3200	KL = 0.301044	fidelity = 0.660141
+Epoch: 3300	KL = 0.296464	fidelity = 0.665096
+Epoch: 3400	KL = 0.290351	fidelity = 0.671782
+Epoch: 3500	KL = 0.284006	fidelity = 0.677848
+Epoch: 3600	KL = 0.278906	fidelity = 0.683909
+Epoch: 3700	KL = 0.273348	fidelity = 0.689832
+Epoch: 3800	KL = 0.269051	fidelity = 0.694400
+Epoch: 3900	KL = 0.264759	fidelity = 0.699360
+Epoch: 4000	KL = 0.261439	fidelity = 0.703141
+Epoch: 4100	KL = 0.257187	fidelity = 0.707575
+Epoch: 4200	KL = 0.253468	fidelity = 0.712054
+Epoch: 4300	KL = 0.249982	fidelity = 0.716166
+Epoch: 4400	KL = 0.247314	fidelity = 0.719281
+Epoch: 4500	KL = 0.245625	fidelity = 0.721506
+Epoch: 4600	KL = 0.241864	fidelity = 0.725638
+Epoch: 4700	KL = 0.240071	fidelity = 0.728496
+Epoch: 4800	KL = 0.236881	fidelity = 0.732296
+Epoch: 4900	KL = 0.234152	fidelity = 0.735781
+Epoch: 5000	KL = 0.230973	fidelity = 0.739382
+Epoch: 5100	KL = 0.231206	fidelity = 0.740516
+Epoch: 5200	KL = 0.228245	fidelity = 0.743512
+Epoch: 5300	KL = 0.226279	fidelity = 0.745923
+Epoch: 5400	KL = 0.223563	fidelity = 0.748872
+Epoch: 5500	KL = 0.227117	fidelity = 0.748161
+Epoch: 5600	KL = 0.221501	fidelity = 0.752599
+Epoch: 5700	KL = 0.219562	fidelity = 0.754902
+Epoch: 5800	KL = 0.220406	fidelity = 0.756001
+Epoch: 5900	KL = 0.216460	fidelity = 0.759274
+Epoch: 6000	KL = 0.218091	fidelity = 0.759776
+Epoch: 6100	KL = 0.216562	fidelity = 0.761268
+Epoch: 6200	KL = 0.216036	fidelity = 0.762811
+Epoch: 6300	KL = 0.216861	fidelity = 0.763249
+Epoch: 6400	KL = 0.212488	fidelity = 0.766496
+Epoch: 6500	KL = 0.213259	fidelity = 0.767164
+Epoch: 6600	KL = 0.213874	fidelity = 0.767533
+Epoch: 6700	KL = 0.211076	fidelity = 0.769805
+Epoch: 6800	KL = 0.205509	fidelity = 0.773645
+Epoch: 6900	KL = 0.210851	fidelity = 0.771745
+Epoch: 7000	KL = 0.207711	fidelity = 0.774205
+Epoch: 7100	KL = 0.209179	fidelity = 0.774442
+Epoch: 7200	KL = 0.209367	fidelity = 0.775850
+Epoch: 7300	KL = 0.201144	fidelity = 0.780523
+Epoch: 7400	KL = 0.213184	fidelity = 0.775759
+Epoch: 7500	KL = 0.210182	fidelity = 0.777474
+Epoch: 7600	KL = 0.205083	fidelity = 0.780806
+Epoch: 7700	KL = 0.211667	fidelity = 0.778600
+Epoch: 7800	KL = 0.204403	fidelity = 0.783255
+Epoch: 7900	KL = 0.199494	fidelity = 0.786286
+Epoch: 8000	KL = 0.204575	fidelity = 0.784556
+Epoch: 8100	KL = 0.213282	fidelity = 0.780901
+Epoch: 8200	KL = 0.213110	fidelity = 0.781551
+Epoch: 8300	KL = 0.210847	fidelity = 0.783312
+Epoch: 8400	KL = 0.209005	fidelity = 0.784759
+Epoch: 8500	KL = 0.212359	fidelity = 0.784372
+Epoch: 8600	KL = 0.205495	fidelity = 0.788499
+Epoch: 8700	KL = 0.198234	fidelity = 0.792260
+Epoch: 8800	KL = 0.206415	fidelity = 0.789283
+Epoch: 8900	KL = 0.198332	fidelity = 0.793796
+Epoch: 9000	KL = 0.212558	fidelity = 0.787447
+Epoch: 9100	KL = 0.219759	fidelity = 0.784619
+Epoch: 9200	KL = 0.219916	fidelity = 0.784698
+Epoch: 9300	KL = 0.222745	fidelity = 0.783962
+Epoch: 9400	KL = 0.220553	fidelity = 0.785648
+Epoch: 9500	KL = 0.222191	fidelity = 0.785363
+Epoch: 9600	KL = 0.209908	fidelity = 0.792245
+Epoch: 9700	KL = 0.212950	fidelity = 0.791007
+Epoch: 9800	KL = 0.208574	fidelity = 0.793860
+Epoch: 9900	KL = 0.206557	fidelity = 0.795273
+Epoch: 10000	KL = 0.216918	fidelity = 0.790724
+Total time elapsed during training: 285.396 s
+Start measurement of GHZ(500 configurations).
+0 samples generated.
+83 samples generated.
+166 samples generated.
+249 samples generated.
+332 samples generated.
+415 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/Test
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/../
+Learn Training_data/Test: 498 samples.
+Epoch: 100	KL = 1.724292	fidelity = 0.016832
+Epoch: 200	KL = 1.620933	fidelity = 0.013495
+Epoch: 300	KL = 1.534653	fidelity = 0.013177
+Epoch: 400	KL = 1.450482	fidelity = 0.012225
+Epoch: 500	KL = 1.379514	fidelity = 0.008029
+Epoch: 600	KL = 1.317986	fidelity = 0.003141
+Epoch: 700	KL = 1.259081	fidelity = 0.001862
+Epoch: 800	KL = 1.212285	fidelity = 0.000423
+Epoch: 900	KL = 1.123520	fidelity = 0.006177
+Epoch: 1000	KL = 1.039336	fidelity = 0.014639
+Epoch: 1100	KL = 1.008305	fidelity = 0.011440
+Epoch: 1200	KL = 0.985426	fidelity = 0.010445
+Epoch: 1300	KL = 0.969508	fidelity = 0.009957
+Epoch: 1400	KL = 0.959334	fidelity = 0.013168
+Epoch: 1500	KL = 0.937938	fidelity = 0.048326
+Epoch: 1600	KL = 0.906988	fidelity = 0.118223
+Epoch: 1700	KL = 0.877588	fidelity = 0.200430
+Epoch: 1800	KL = 0.586057	fidelity = 0.514544
+Epoch: 1900	KL = 0.385283	fidelity = 0.674164
+Epoch: 2000	KL = 0.304529	fidelity = 0.737783
+Epoch: 2100	KL = 0.262757	fidelity = 0.771015
+Epoch: 2200	KL = 0.233154	fidelity = 0.794214
+Epoch: 2300	KL = 0.214790	fidelity = 0.809701
+Epoch: 2400	KL = 0.200183	fidelity = 0.822037
+Epoch: 2500	KL = 0.190116	fidelity = 0.831364
+Epoch: 2600	KL = 0.180311	fidelity = 0.839855
+Epoch: 2700	KL = 0.175693	fidelity = 0.845447
+Epoch: 2800	KL = 0.182437	fidelity = 0.845142
+Epoch: 2900	KL = 0.178454	fidelity = 0.849492
+Epoch: 3000	KL = 0.175431	fidelity = 0.853202
+Epoch: 3100	KL = 0.199611	fidelity = 0.842979
+Epoch: 3200	KL = 0.210729	fidelity = 0.839051
+Epoch: 3300	KL = 0.225278	fidelity = 0.833328
+Epoch: 3400	KL = 0.224637	fidelity = 0.834948
+Epoch: 3500	KL = 0.244739	fidelity = 0.826347
+Epoch: 3600	KL = 0.270915	fidelity = 0.814996
+Epoch: 3700	KL = 0.298263	fidelity = 0.803278
+Epoch: 3800	KL = 0.309344	fidelity = 0.799142
+Epoch: 3900	KL = 0.320800	fidelity = 0.794809
+Epoch: 4000	KL = 0.355065	fidelity = 0.780551
+Epoch: 4100	KL = 0.392008	fidelity = 0.765696
+Epoch: 4200	KL = 0.416522	fidelity = 0.756368
+Epoch: 4300	KL = 0.421775	fidelity = 0.754887
+Epoch: 4400	KL = 0.434215	fidelity = 0.750529
+Epoch: 4500	KL = 0.462636	fidelity = 0.740093
+Epoch: 4600	KL = 0.478578	fidelity = 0.734578
+Epoch: 4700	KL = 0.493216	fidelity = 0.729611
+Epoch: 4800	KL = 0.540847	fidelity = 0.713125
+Epoch: 4900	KL = 0.537901	fidelity = 0.714529
+Epoch: 5000	KL = 0.573392	fidelity = 0.702890
+Epoch: 5100	KL = 0.586688	fidelity = 0.698888
+Epoch: 5200	KL = 0.606777	fidelity = 0.692774
+Epoch: 5300	KL = 0.616413	fidelity = 0.690057
+Epoch: 5400	KL = 0.643651	fidelity = 0.681960
+Epoch: 5500	KL = 0.667187	fidelity = 0.675208
+Epoch: 5600	KL = 0.701458	fidelity = 0.665644
+Epoch: 5700	KL = 0.712627	fidelity = 0.662765
+Epoch: 5800	KL = 0.726758	fidelity = 0.659123
+Epoch: 5900	KL = 0.725452	fidelity = 0.659706
+Epoch: 6000	KL = 0.757940	fidelity = 0.651285
+Epoch: 6100	KL = 0.748987	fidelity = 0.653830
+Epoch: 6200	KL = 0.786521	fidelity = 0.644392
+Epoch: 6300	KL = 0.798019	fidelity = 0.641733
+Epoch: 6400	KL = 0.785872	fidelity = 0.644935
+Epoch: 6500	KL = 0.823033	fidelity = 0.636015
+Epoch: 6600	KL = 0.837642	fidelity = 0.632732
+Epoch: 6700	KL = 0.840666	fidelity = 0.632181
+Epoch: 6800	KL = 0.860976	fidelity = 0.627661
+Epoch: 6900	KL = 0.871765	fidelity = 0.625391
+Epoch: 7000	KL = 0.886750	fidelity = 0.622224
+Epoch: 7100	KL = 0.908965	fidelity = 0.617597
+Epoch: 7200	KL = 0.901059	fidelity = 0.619391
+Epoch: 7300	KL = 0.927733	fidelity = 0.613921
+Epoch: 7400	KL = 0.922121	fidelity = 0.615198
+Epoch: 7500	KL = 0.913169	fidelity = 0.617176
+Epoch: 7600	KL = 0.958920	fidelity = 0.607972
+Epoch: 7700	KL = 0.972842	fidelity = 0.605354
+Epoch: 7800	KL = 0.984542	fidelity = 0.603208
+Epoch: 7900	KL = 0.991589	fidelity = 0.601947
+Epoch: 8000	KL = 1.013143	fidelity = 0.598051
+Epoch: 8100	KL = 1.004675	fidelity = 0.599673
+Epoch: 8200	KL = 1.017237	fidelity = 0.597460
+Epoch: 8300	KL = 1.026690	fidelity = 0.595813
+Epoch: 8400	KL = 1.052138	fidelity = 0.591416
+Epoch: 8500	KL = 1.067080	fidelity = 0.588896
+Epoch: 8600	KL = 1.064090	fidelity = 0.589411
+Epoch: 8700	KL = 1.097273	fidelity = 0.583938
+Epoch: 8800	KL = 1.092306	fidelity = 0.584721
+Epoch: 8900	KL = 1.085841	fidelity = 0.585724
+Epoch: 9000	KL = 1.110388	fidelity = 0.581687
+Epoch: 9100	KL = 1.118323	fidelity = 0.580279
+Epoch: 9200	KL = 1.124245	fidelity = 0.579121
+Epoch: 9300	KL = 1.130172	fidelity = 0.577861
+Epoch: 9400	KL = 1.143085	fidelity = 0.575316
+Epoch: 9500	KL = 1.164641	fidelity = 0.571259
+Epoch: 9600	KL = 1.192277	fidelity = 0.565807
+Epoch: 9700	KL = 1.207107	fidelity = 0.561679
+Epoch: 9800	KL = 1.191567	fidelity = 0.561256
+Epoch: 9900	KL = 1.206383	fidelity = 0.555511
+Epoch: 10000	KL = 1.207155	fidelity = 0.551369
+Total time elapsed during training: 1127.496 s
+Start measurement of GHZ(1000 configurations).
+0 samples generated.
+166 samples generated.
+332 samples generated.
+498 samples generated.
+664 samples generated.
+830 samples generated.
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/Test
+Bases, training bases, training samples and target statevector are saved in the folder: Training_data/../
+Learn Training_data/Test: 996 samples.
+Epoch: 100	KL = 1.701545	fidelity = 0.011042
+Epoch: 200	KL = 1.598849	fidelity = 0.007665
+Epoch: 300	KL = 1.510342	fidelity = 0.006259
+Epoch: 400	KL = 1.435212	fidelity = 0.004332
+Epoch: 500	KL = 1.365672	fidelity = 0.005316
+Epoch: 600	KL = 1.306774	fidelity = 0.013200
+Epoch: 700	KL = 1.109524	fidelity = 0.181774
+Epoch: 800	KL = 0.746753	fidelity = 0.496840
+Epoch: 900	KL = 0.375306	fidelity = 0.689825
+Epoch: 1000	KL = 0.266795	fidelity = 0.759591
+Epoch: 1100	KL = 0.221587	fidelity = 0.792743
+Epoch: 1200	KL = 0.195432	fidelity = 0.811362
+Epoch: 1300	KL = 0.171522	fidelity = 0.830771
+Epoch: 1400	KL = 0.158044	fidelity = 0.842464
+Epoch: 1500	KL = 0.147002	fidelity = 0.852385
+Epoch: 1600	KL = 0.165970	fidelity = 0.842421
+Epoch: 1700	KL = 0.224274	fidelity = 0.812050
+Epoch: 1800	KL = 1.464287	fidelity = 0.502338
+Epoch: 1900	KL = 2.302803	fidelity = 0.484219
+Epoch: 2000	KL = 2.104831	fidelity = 0.459358
+Epoch: 2100	KL = 1.886763	fidelity = 0.415626
+Epoch: 2200	KL = 1.760545	fidelity = 0.380561
+Epoch: 2300	KL = 1.694664	fidelity = 0.359487
+Epoch: 2400	KL = 1.666496	fidelity = 0.345788
+Epoch: 2500	KL = 1.658555	fidelity = 0.338975
+Epoch: 2600	KL = 1.658427	fidelity = 0.335685
+Epoch: 2700	KL = 1.662899	fidelity = 0.334697
+Epoch: 2800	KL = 1.671417	fidelity = 0.333242
+Epoch: 2900	KL = 1.675765	fidelity = 0.333937
+Epoch: 3000	KL = 1.674467	fidelity = 0.332453
+Epoch: 3100	KL = 1.679649	fidelity = 0.332981
+Epoch: 3200	KL = 1.686749	fidelity = 0.332226
+Epoch: 3300	KL = 1.690893	fidelity = 0.332229
+Epoch: 3400	KL = 1.693041	fidelity = 0.331597
+Epoch: 3500	KL = 1.697875	fidelity = 0.331858
+Epoch: 3600	KL = 1.705149	fidelity = 0.330938
+Epoch: 3700	KL = 1.703666	fidelity = 0.329497
+Epoch: 3800	KL = 1.708341	fidelity = 0.330777
+Epoch: 3900	KL = 1.711624	fidelity = 0.330228
+Epoch: 4000	KL = 1.718569	fidelity = 0.330263
+Epoch: 4100	KL = 1.718868	fidelity = 0.329787
+Epoch: 4200	KL = 1.732389	fidelity = 0.332290
+Epoch: 4300	KL = 1.733395	fidelity = 0.330352
+Epoch: 4400	KL = 1.739469	fidelity = 0.331103
+Epoch: 4500	KL = 1.739202	fidelity = 0.331570
+Epoch: 4600	KL = 1.746252	fidelity = 0.330872
+Epoch: 4700	KL = 1.746374	fidelity = 0.329265
+Epoch: 4800	KL = 1.750530	fidelity = 0.330134
+Epoch: 4900	KL = 1.752147	fidelity = 0.329597
+Epoch: 5000	KL = 1.760188	fidelity = 0.328850
+Epoch: 5100	KL = 1.762411	fidelity = 0.328654
+Epoch: 5200	KL = 1.767069	fidelity = 0.328388
+Epoch: 5300	KL = 1.770764	fidelity = 0.328927
+Epoch: 5400	KL = 1.780496	fidelity = 0.330235
+Epoch: 5500	slurmstepd: error: *** JOB 31150985 ON th-cl-uv302 CANCELLED AT 2021-10-31T12:13:00 ***
