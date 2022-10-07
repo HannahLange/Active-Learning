@@ -1,0 +1,21 @@
+\BOOKMARK [0][-]{section*.2}{Adaptive Quantum State Tomography with Active Learning}{}% 2
+\BOOKMARK [1][-]{section*.1}{Abstract}{section*.2}% 1
+\BOOKMARK [1][-]{section*.3}{Restricted Boltzmann Machines}{section*.2}% 3
+\BOOKMARK [1][-]{section*.4}{Active Learning Algorithm }{section*.2}% 4
+\BOOKMARK [1][-]{section*.5}{Considered States }{section*.2}% 5
+\BOOKMARK [2][-]{section*.6}{Qubit states and IBM's Quantum cloud}{section*.5}% 6
+\BOOKMARK [2][-]{section*.7}{Kinetically constrained spin chain}{section*.5}% 7
+\BOOKMARK [1][-]{section*.8}{Results}{section*.2}% 8
+\BOOKMARK [2][-]{section*.9}{Tomography results for quantum states on IBM's Quantum cloud }{section*.8}% 9
+\BOOKMARK [2][-]{section*.10}{Tomography results for DMRG states}{section*.8}% 10
+\BOOKMARK [3][-]{section*.11}{Reconstruction of GHZ states}{section*.10}% 11
+\BOOKMARK [3][-]{section*.12}{Kinetically constrained spin chain model}{section*.10}% 12
+\BOOKMARK [1][-]{section*.13}{Summary and Outlook }{section*.2}% 13
+\BOOKMARK [1][-]{section*.14}{}{section*.2}% 14
+\BOOKMARK [1][-]{section*.15}{Quantum state representation in terms of a restricted Boltzmann machine }{section*.2}% 15
+\BOOKMARK [1][-]{section*.16}{Details of active learning QST}{section*.2}% 16
+\BOOKMARK [2][-]{section*.17}{IBM quantum states }{section*.16}% 17
+\BOOKMARK [2][-]{section*.18}{DMRG states }{section*.16}% 18
+\BOOKMARK [1][-]{section*.19}{Kinetically constrained spin model and Z2 lattice gauge theory}{section*.2}% 19
+\BOOKMARK [2][-]{section*.20}{Mapping to a Z2 lattice gauge theory}{section*.19}% 20
+\BOOKMARK [2][-]{section*.21}{The gauge-invariant equal-time Green's function}{section*.19}% 21
