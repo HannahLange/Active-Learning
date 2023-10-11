@@ -4,6 +4,6 @@ Implementation of Active Learning (AL) Quantum State Tomography for various quan
 ![AL](https://user-images.githubusercontent.com/82364625/229310139-263a12c8-3a5d-4fe5-88b9-f0d4fd6949d6.jpg)
 
 # Requirements:
-QuCumber for the RBM reconstruction: https://qucumber.readthedocs.io/en/stable/
+[QuCumber](https://qucumber.readthedocs.io/en/stable/) for the RBM reconstruction.
 
-An example can be run by calling example.py.
+An example can be run by calling `example.py`.
